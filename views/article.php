@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Мой Первый Блог</title>
         <link rel='stylesheet' href="style.css">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        
     </head>
     <body>
         <div class="container">
@@ -20,6 +20,7 @@
                 </div>
 
             </div>
+            <br>
             <footer>
                 <p>Мой Первый Блог<br>Copyrite &copy; 2018</p>
             </footer>

@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Мой Первый Блог</title>
         <link rel='stylesheet' href="../style.css">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+       
     </head>
     <body>
         <div class="container">
@@ -13,8 +13,8 @@
                <a href="index.php?action=add">Добавить статью</a>
                 <table class = "admin-table">
    <tr>
-       <th>Дата</th>
-       <th>Заголовок</th>
+       <th align = "left">Дата</th>
+       <th align = "left">Заголовок</th>
        <th></th>
        <th></th>
    </tr>
@@ -28,8 +28,9 @@
    <?php endforeach ?>
 </table>      
             </div>
+            <br>
             <footer>
-                <p>Мой Первый Блог<br>Copyrite &copy; 2017</p>
+                <p>Мой Первый Блог<br>Copyrite &copy; 2018</p>
             </footer>
         </div>
     </body>

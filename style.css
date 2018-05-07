@@ -1,3 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+.container{
+    width: 1035px;
+    height: auto;
+    margin: 0 auto;
+}
 footer{
     text-align: center;
 }
@@ -18,4 +26,17 @@ textarea {
 
 label{
     margin-top: 20px;
+}
+h1{
+    text-align: center;
+    color: #1E90FF;
+}
+a{
+    color: #1E90FF;
+    text-decoration: none;
+}
+a:hover{
+    color: #4169E1;
+    text-decoration: underline;
+
 }
